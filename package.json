@@ -1,0 +1,16 @@
+{
+  "name": "figma_api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "connect to figma",
+  "author": "Megan Pearson",
+  "scripts": {
+    "figma": "node figma"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.2.1",
+    "chalk": "^4.1.0" 
+  } 
+}
